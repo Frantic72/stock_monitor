@@ -62,7 +62,6 @@ def main() -> None:
         if current_price >= target_price:
             msg = (f"🚨 ALERT: {ticker} hit ${current_price:.2f} "
                    f"(Target: ${target_price:.2f})!")
-            print(msg)
             if send_discord_notification(webhook_url, msg):
                 print("Notification sent successfully to Discord!")
         else:
