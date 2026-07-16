@@ -1,9 +1,9 @@
 # Stock Alert Monitor CLI
 
-#### Video URL: <URL HERE>
+#### Video URL: https://youtu.be/SZk0JEuKkDY
 
 #### Description:
-A automated Command-Line Interface (CLI) application built in Python that tracks real-time asset prices via the Yahoo Finance API and dispatches custom trigger notifications directly to Discord channels. 
+An automated Command-Line Interface (CLI) application built in Python that tracks real-time asset prices via the Yahoo Finance API and dispatches custom trigger notifications directly to Discord channels. 
 
 This application was designed and engineered as a final project for CS50’s Introduction to Programming with Python, focusing on modular structure, rigorous testing, and Clean Code principles.
 
